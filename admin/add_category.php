@@ -51,6 +51,9 @@ if ($role_id == 1) {
             <form action="add_category.php" method="post">
                 <label for="name">Tên danh mục</label>
                 <input type="text" id="name" name="name" placeholder="Tên danh mục.." required>
+                
+                <label for="name">Hinh danh mục</label>
+                <input type="text" id="hinh" name="hinh" placeholder="Hinh danh mục.." required>
 
                 <input type="submit" value="Lưu" name="submit">
             </form>
