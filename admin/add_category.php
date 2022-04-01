@@ -57,6 +57,8 @@ if ($role_id == 1) {
 
                 <label for="name">Hinh Anh</label>
                 <input type="file" id="hinhAnh" name="hinhAnh" placeholder="Hinh Anh">
+
+                <label for="gogo">sss</label>
                 
                 <input type="submit" value="Lưu" name="submit">
             </form>
