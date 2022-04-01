@@ -56,7 +56,7 @@ if ($role_id == 1) {
                 <input type="text" id="hinh" name="hinh" placeholder="Hinh danh mục.." required>
 
                 <label for="name">Hinh Anh</label>
-                <input type="file" id="hinhAnhdaco" name="hinhAnhdaco" placeholder="Hinh">
+                <input type="file" id="hinhAnhmoncongnghephanmem" name="hinhAnhdacd" placeholder="Hinhanhmoncnpm">
                 
                 <input type="submit" value="Lưu" name="submit">
             </form>
