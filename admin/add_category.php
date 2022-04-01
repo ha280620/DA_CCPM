@@ -55,6 +55,9 @@ if ($role_id == 1) {
                 <label for="name">Hinh danh mục</label>
                 <input type="text" id="hinh" name="hinh" placeholder="Hinh danh mục.." required>
 
+                <label for="name">Hinh anh danh mục</label>
+                <input type="text0" id="hinh0" name="hinh0" placeholder="Hinh danh mục0" required>
+                
                 <input type="submit" value="Lưu" name="submit">
             </form>
         </div>
